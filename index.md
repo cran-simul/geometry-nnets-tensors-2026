@@ -8,11 +8,14 @@
 **Date**: June 10th, 2026.
 
 ## About the Workshop
-This one-day workshop will discuss the recent developments in the theoretical study of neural networks representations and tensor decompositions using the tools of algebraic geometry. Understanding the geometry of these models has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms. The use geometry is establishing itself as a powerful framework to understand modern algorithms in an increasing number of applications in machine learning, algebraic statistics and signal processing.  This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.github.io/tensors-geometry-workshop/) organized in 2025.
+This one-day workshop will discuss the recent developments in the theoretical study of neural networks representations and tensor decompositions using the tools of algebraic geometry. Understanding the geometry of these models has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms. The use geometry is establishing itself as a powerful framework to understand modern algorithms in an increasing number of applications in machine learning, algebraic statistics and signal processing.  
+
+This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.github.io/tensors-geometry-workshop/) organized in 2025.
 
 
 ## Registration
 Registration is free but mandatory (before May 22). [(registration link)](https://docs.google.com/forms/d/e/1FAIpQLScQCUN5NZ_XsXWlyJuzlVhG6BZaGSfbSQV5tKstIWF7Bn7zYA/viewform)
+Participants will be given an opportunity to present short talks or posters.
 
 
 ## Invited speakers
