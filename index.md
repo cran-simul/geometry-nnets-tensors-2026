@@ -1,4 +1,4 @@
-## Workshop on the Geometry of Tensors and Neural Networks (Wednesday 10th June 2026)
+## Workshop on the Geometry of Tensors and Neural Networks 
 
 ![tenseur](tenseur.png)
 
@@ -12,13 +12,15 @@ This one-day workshop will discuss the recent developments in the theoretical st
 
 
 ## Registration
-Registration is free but mandatory (the capacity is limited). More information coming soon!
+Registration is free but mandatory (before May 18). [(registration link)](https://docs.google.com/forms/d/e/1FAIpQLScQCUN5NZ_XsXWlyJuzlVhG6BZaGSfbSQV5tKstIWF7Bn7zYA/viewform)
 
 
 ## Invited speakers
 - [Alex Massarenti](http://mcs.unife.it/alex.massarenti/index.html) (University of Ferrara, Ferrara, Italy)
 - [Kathlén Kohn](https://kathlenkohn.github.io/) (KTH, Stockholm, Sweden)
 - [Maksym Zubkov](https://www.maksymzubkov.info/) (University of British Columbia, Vancouver, Canada)
+
+## Preliminary schedule
 
 
 ---
