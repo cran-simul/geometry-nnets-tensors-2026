@@ -30,7 +30,7 @@ Registration is free but mandatory (before May 22). [(registration link)](https:
 | 11:30-12:30      | Invited talk #2                       |
 | 12:30-14:00      | Lunch break                            |
 | 14:00-15:00      | Invited talk # 3                       |                      
-| 15:00-16:30      | Contributed talks/poster session       |
+| 15:00-17:00      | Contributed talks/poster session       |
 
 
 ---
