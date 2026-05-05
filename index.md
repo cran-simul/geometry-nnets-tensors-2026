@@ -1,4 +1,4 @@
-## Workshop on the Geometry of Tensors and Neural Networks 
+## Geometry of Tensors and Neural Networks in Nancy (2026)
 
 ![FST](fst.jpg)
 
