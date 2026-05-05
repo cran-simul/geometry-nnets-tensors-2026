@@ -22,6 +22,15 @@ Registration is free but mandatory (before May 22). [(registration link)](https:
 
 ## Preliminary schedule
 
+| **Time**         | **Session**                             |
+|------------------|-----------------------------------------|
+| 09:30-10:00      | Opening remarks                       |
+| 10:00-11:00      | Invited talk #1                       |
+| 11:00-11:30      | Coffee break                        |
+| 11:30-12:30      | Invited talk #2                       |
+| 12:30-14:00      | Lunch break                            |
+| 14:00-15:00      | Invited talk # 3                       |                      
+| 15:00-16:30      | Contributed talks/poster session       |
 
 
 ---
