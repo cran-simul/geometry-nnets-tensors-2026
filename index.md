@@ -7,7 +7,7 @@
 **Date**: Wednesday June 10th, 2026.
 
 ## About the Workshop
-This one-day workshop will focus on the theoretical study of neural networks  and tensor decompositions using geometric tools. The main topic is the geometry of the corresponding algebraic varieties: neurovarieties (in case of neural networks) and secant varieties (for tensor decompositions). For neural networks, understanding  geometry of neurovarieties has proven to be the key to reveal many of their fundamental properties of neural network representation such as their identifiability, expressivity, and the behavior of optimization algorithms (see, for example, (https://neuroalgebraicgeometry.ai) ). The workhop will present recent developments and discuss connections between neural networks and tensor decompositions.
+This one-day workshop will focus on the theoretical study of neural networks  and tensor decompositions using geometric tools. The main topic is the geometry of the corresponding algebraic varieties: neurovarieties (in case of neural networks) and secant varieties (for tensor decompositions). For neural networks, understanding  geometry of neurovarieties has proven to be the key to reveal many of their fundamental properties of neural network representation such as their identifiability, expressivity, and the behavior of optimization algorithms (see, for example, [neuroalgebraicgeometry.ai](https://neuroalgebraicgeometry.ai) ). The workhop will present recent developments and discuss connections between neural networks and tensor decompositions.
 
 This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.github.io/tensors-geometry-workshop/) organized in 2025.
 
