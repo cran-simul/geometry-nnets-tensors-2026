@@ -39,6 +39,7 @@ You are welcome to propose a short talk or poster presentation.
 - [Marianne Clausel](https://sites.google.com/site/marianneclausel/home)
 - [Konstantin Usevich](http://w3.cran.univ-lorraine.fr/konstantin.usevich/)
 - [SiMul research group](https://cran-simul.github.io) of [CRAN](https://www.cran.univ-lorraine.fr)
+  
 Contact: firstname.lastname @ univ-lorraine.fr
 
 ---
