@@ -27,11 +27,11 @@ You are welcome to propose a short talk or poster presentation.
 | **Time**         | **Session**                             |
 |------------------|-----------------------------------------|
 | 09:30-10:00      | Opening remarks                       |
-| 10:00-11:00      | Invited talk #1                       |
+| 10:00-11:00      | Kathlén Kohn <br/>  *Algebraic Neural Network Theory*    |
 | 11:00-11:30      | Coffee break                        |
-| 11:30-12:30      | Invited talk #2                       |
+| 11:30-12:30      | Alex Massarenti <br/> *TBD*                      |
 | 12:30-14:00      | Lunch break                            |
-| 14:00-15:00      | Invited talk # 3                       |                      
+| 14:00-15:00      | Max Zubkov <br/> *TBD*                   |                      
 | 15:00-17:00      | Contributed talks/poster session       |
 
 ## Organizers
