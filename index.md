@@ -13,7 +13,7 @@ This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.
 
 
 ## Registration
-Registration is free but mandatory (before May 22) [(registration link)](https://docs.google.com/forms/d/e/1FAIpQLScQCUN5NZ_XsXWlyJuzlVhG6BZaGSfbSQV5tKstIWF7Bn7zYA/viewform)
+Registration is free but mandatory (before May 20) [(registration link)](https://docs.google.com/forms/d/e/1FAIpQLScQCUN5NZ_XsXWlyJuzlVhG6BZaGSfbSQV5tKstIWF7Bn7zYA/viewform)
 You are welcome to propose a short talk or poster presentation.
 
 
