@@ -1,4 +1,4 @@
-## Geometry of Tensors and Neural Networks in Nancy (2026)
+## Geometry of Neural Networks and Tensors in Nancy (2026)
 
 ![FST](fst.jpg)
 
@@ -44,4 +44,4 @@ Contact: firstname.lastname @ univ-lorraine.fr
 
 ---
 
-&copy; 2026 Geometry of Tensors and Neural Networks in Nancy
+&copy; 2026 Geometry of  Neural Networks and Tensors in Nancy
