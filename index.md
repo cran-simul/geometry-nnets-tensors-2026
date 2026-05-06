@@ -8,7 +8,7 @@
 **Date**: June 10th, 2026.
 
 ## About the Workshop
-This one-day workshop will discuss the recent developments in the theoretical study of neural networks representations and tensor decompositions using the tools of algebraic geometry. Understanding the geometry of these models has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms. The use geometry is establishing itself as a powerful framework to understand modern algorithms in an increasing number of applications in machine learning, algebraic statistics and signal processing.  
+This one-day workshop will discuss the recent developments in the theoretical study of neural networks representations and tensor decompositions using geometric tools. Understanding the geometry of these models has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms. The use of algebraic geometry is establishing itself as a powerful framework to understand modern algorithms in an increasing number of applications in machine learning, algebraic statistics and signal processing.  
 
 This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.github.io/tensors-geometry-workshop/) organized in 2025.
 
@@ -19,8 +19,8 @@ You are welcome to propose a short talk or poster presentation.
 
 
 ## Invited speakers
-- [Alex Massarenti](http://mcs.unife.it/alex.massarenti/index.html) (University of Ferrara, Ferrara, Italy)
 - [Kathlén Kohn](https://kathlenkohn.github.io/) (KTH, Stockholm, Sweden)
+- [Alex Massarenti](http://mcs.unife.it/alex.massarenti/index.html) (University of Ferrara, Ferrara, Italy)
 - [Maksym Zubkov](https://www.maksymzubkov.info/) (University of British Columbia, Vancouver, Canada)
 
 ## Preliminary schedule
@@ -35,7 +35,13 @@ You are welcome to propose a short talk or poster presentation.
 | 14:00-15:00      | Invited talk # 3                       |                      
 | 15:00-17:00      | Contributed talks/poster session       |
 
+## Organizers
+- [Ricardo Borsoi](https://ricardoborsoi.github.io) 
+- [Marianne Clausel](https://sites.google.com/site/marianneclausel/home)
+- [Konstantin Usevich](http://w3.cran.univ-lorraine.fr/konstantin.usevich/)
+- [SiMul research group](https://cran-simul.github.io) of [CRAN](https://www.cran.univ-lorraine.fr)
+Contact: firstname.lastname @ univ-lorraine.fr
 
 ---
 
-&copy; 2026 Workshop on the Geometry of Tensors and Neural Networks
+&copy; 2026 Geometry of Tensors and Neural Networks in Nancy
