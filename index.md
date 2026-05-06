@@ -2,10 +2,9 @@
 
 ![FST](fst.jpg)
 
-**Location**: Faculté des Sciences et Technologies, Université de Lorraine, rue du Jardin botanique, Villers-lès-Nancy.  [How to get there](https://www.openstreetmap.org/?#map=19/48.666742/6.160048)
+**Location**: Faculté des Sciences et Technologies, Université de Lorraine, Boulevard des Aiguillettes, Vandoeuvre-lès-Nancy.  
 
-
-**Date**: June 10th, 2026.
+**Date**: Wednesday June 10th, 2026.
 
 ## About the Workshop
 This one-day workshop will discuss the recent developments in the theoretical study of neural networks representations and tensor decompositions using geometric tools. Understanding the geometry of these models has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms. The use of algebraic geometry is establishing itself as a powerful framework to understand modern algorithms in an increasing number of applications in machine learning, algebraic statistics and signal processing.  
