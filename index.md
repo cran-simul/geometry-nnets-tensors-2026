@@ -33,7 +33,7 @@ You are welcome to propose a short talk or poster presentation.
 | 10:45-11:15      | Coffee break                        |
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
 | 12:30-14:00      | Lunch break                            |
-| 14:00-15:00      | Maksym Zubkov <br/> *Algebraic geometry of rational neural networks*                   |                      
+| 14:00-15:00      | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*                   |                      
 | 15:00-17:00      | Contributed talks/poster session       |
 
 <a name="kathlen-kohn"></a>
@@ -73,10 +73,10 @@ I will discuss recent results, obtained in collaboration with Massimiliano Mella
 [(back to schedule)](#schedule)
 
 ### Maksym Zubkov 
-*Algebraic geometry of rational neural networks*
+*The Interplay of Tensors and Neural Networks*
 
 **Abstract:**
-We study the expressivity of rational neural networks (RationalNets) through the lens of algebraic geometry. We consider rational functions that arise from a given RationalNet to be tuples of fractions of homogeneous polynomials of fixed degrees. For a given architecture, the neuromanifold is the set of all such expressible tuples. For RationalNets with one hidden layer and fixed activation function $1/x$, we characterize the dimension of the neuromanifold and provide defining equations for some architectures. We also propose algorithms that determine whether a given rational function belongs to the neuromanifold. For deep binary RationalNets, i.e., RationalNets all of whose layers except potentially for the last one are binary, we classify when the Zarisky closure of the neuromanifold equals the whole ambient space, and give bounds on its dimensions.
+In this talk, we will explore (neuro)algebraic geometry, an emerging field analogous to algebraic statistics that uses algebraic geometry to study the theory of deep learning. We fix a feedforward neural network architecture with polynomial or rational activation functions and associate an algebraic (neuro)variety to the given architecture. I will present recent results showing how the study of neurovarieties arising from shallow polynomial and rational neural networks connects to several classical questions in algebraic geometry, including Chow varieties, secant varieties of Veronese and Grassmann varieties, Weyl’s conjectures, and other related topics. On the other hand, moving beyond shallow architectures brings a rich collection of classical algebro-geometric objects into focus, whose study may help us better understand the geometry underlying deep learning theory. More broadly, the talk will illustrate how algebro-geometric tools complement the more familiar statistical and probabilistic approaches to the mathematical foundations of deep learning.
 
 
 ## Organizers
