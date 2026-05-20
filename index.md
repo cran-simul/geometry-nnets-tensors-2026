@@ -42,9 +42,9 @@ You are welcome to propose a short talk or poster presentation.
 | 15:00-17:00      | Poster session + coffee      |
 
 ### Confirmed poster contributions 
+- Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
 - Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
 - Antonio Fazzi (CRAN) *TBD*
-- Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
 - Chuong Luong (CRAN) *TBD*
 - Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
 
