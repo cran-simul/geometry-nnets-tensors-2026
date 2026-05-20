@@ -12,7 +12,8 @@ This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.
 
 The topics of the workshop include, but not limited to: 
  * geometry of low-rank matrix/tensor decompositions
- * neurovarieties and secant varieties (X-rank)
+ * geometry of neural networks
+ * neurovarieties and secant varieties, X-rank decompositions
  * uniqueness/identifiability of models
  * expressivity
  * optimization and characterization of critical points
