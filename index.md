@@ -8,10 +8,14 @@
 
 ## About the Workshop
 This one-day workshop will focus on the theoretical study of neural networks  and tensor decompositions using geometric tools. The main topic is the geometry of the corresponding algebraic varieties: neurovarieties (in case of neural networks) and secant varieties (for tensor decompositions). In machine learning theory, understanding  geometry of neurovarieties has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms (see, for example, [neuroalgebraicgeometry.ai](https://neuroalgebraicgeometry.ai) ). The workhop will present recent developments and discuss connections between neural networks and tensor decompositions.
-The topics of the workshop include, but not limited to: neurovarieties, tensor/X-rank decompositions, secant varieties, uniqueness/identifiability, expressivity, characterization of critical points.
-
 This is a follow-up of the [workshop on geometry of tensors](https://cran-simul.github.io/tensors-geometry-workshop/) organized in 2025.
 
+The topics of the workshop include, but not limited to: 
+ * geometry of low-rank matrix/tensor decompositions
+ * neurovarieties and secant varieties (X-rank)
+ * uniqueness/identifiability of models
+ * expressivity
+ * optimization and characterization of critical points
 
 ## Registration
 Registration is free but mandatory (before May 24) [(registration link)](https://forms.gle/P6HLXxzemUQ4rP4Q7)
@@ -22,6 +26,7 @@ You are welcome to propose a short talk or poster presentation.
 - [Kathlén Kohn](https://kathlenkohn.github.io/) (KTH, Stockholm, Sweden)
 - [Alex Massarenti](http://mcs.unife.it/alex.massarenti/index.html) (University of Ferrara, Ferrara, Italy)
 - [Maksym Zubkov](https://www.maksymzubkov.info/) (University of British Columbia, Vancouver, Canada)
+
 
 <a name="schedule"></a>
 ## Preliminary schedule
@@ -34,7 +39,14 @@ You are welcome to propose a short talk or poster presentation.
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
 | 12:30-14:00      | Lunch break                            |
 | 14:00-15:00      | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*                   |                      
-| 15:00-17:00      | Contributed talks/poster session       |
+| 15:00-17:00      | Poster session + coffee      |
+
+### Confirmed poster contributions 
+- Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
+- Antonio Fazzi (CRAN) *TBD*
+- Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
+- Chuong Luong (CRAN) *TBD*
+- Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
 
 <a name="kathlen-kohn"></a>
 ### Kathlén Kohn 
