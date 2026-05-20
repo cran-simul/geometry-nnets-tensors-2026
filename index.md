@@ -38,7 +38,7 @@ You are welcome to propose a short talk or poster presentation.
 | 10:45-11:15      | Coffee break                        |
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
 | 12:30-14:00      | Lunch break                            |
-| 14:00-15:00      | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*                   |                      
+| 14:00-15:00      | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*    [(abstract)](#maksym-zubkov)               |                      
 | 15:00-17:00      | Poster session + coffee      |
 
 ### Confirmed poster contributions 
