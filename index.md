@@ -48,7 +48,7 @@ You are welcome to propose a short talk or poster presentation.
 - Antonio Fazzi (CRAN) *TBD*
 - Chuong Luong (CRAN) *TBD*
 - Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
-- Luyhui Wu (Sorbonne Université) *Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
+- Lyuhui Wu (Sorbonne Université) *Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
 
 <a name="kathlen-kohn"></a>
 ### Kathlén Kohn 
