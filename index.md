@@ -45,6 +45,7 @@ You are welcome to propose a short talk or poster presentation.
 ### Confirmed poster contributions 
 - Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
 - Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
+- Julian Brandon (ENS Paris) *Understanding mode collapse in generative flow models using dimensionality reduction methods*
 - Antonio Fazzi (CRAN) *TBD*
 - Chuong Luong (CRAN) *TBD*
 - Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
