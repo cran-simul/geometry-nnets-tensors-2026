@@ -21,7 +21,7 @@ The topics of the workshop include, but not limited to:
 ## Registration
 Registration is free but mandatory (before May 27) 
 
-[](https://forms.gle/P6HLXxzemUQ4rP4Q7)  
+[registration link](https://forms.gle/P6HLXxzemUQ4rP4Q7)  
 
 You are welcome to propose a short talk or poster presentation.
 
