@@ -41,9 +41,10 @@ You are welcome to propose a short talk or poster presentation.
 | 09:30-10:45      | Kathlén Kohn <br/>  *Algebraic Neural Network Theory*  [(abstract)](#kathlen-kohn)  |
 | 10:45-11:15      | Coffee break                        |
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
-| 12:30-14:00      | Lunch break                            |
-| 14:00-15:00      | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*    [(abstract)](#maksym-zubkov)               |                      
-| 15:00-17:00      | Poster session + coffee      |
+| 12:30-14:00      | Lunch break  (on site)                    |
+| 14:00-15:15     | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*    [(abstract)](#maksym-zubkov)               |         
+| 15:15-15:30  |  Poster teasers                  |
+| 15:30-17:00      | Poster session + coffee      |
 
 ### Confirmed poster contributions 
 - Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
