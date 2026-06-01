@@ -33,7 +33,7 @@ You are welcome to present a poster related to the topics of the workshop.
 
 
 <a name="schedule"></a>
-## Preliminary schedule
+## Schedule
 
 | **Time**         | **Session**                             |
 |------------------|-----------------------------------------|
