@@ -23,7 +23,7 @@ Registration is free but mandatory (by June 1)
 
 [registration link](https://forms.gle/P6HLXxzemUQ4rP4Q7)  
 
-You are welcome to propose a short talk or poster presentation.
+You are welcome to present a poster related to the topics of the workshop.
 
 
 ## Invited speakers
