@@ -2,7 +2,7 @@
 
 ![FST](fst.jpg)
 
-**Location**: Faculté des Sciences et Technologies, Université de Lorraine, Boulevard des Aiguillettes, Vandoeuvre-lès-Nancy.  
+**Location**: IDMC (Institut des Sciences du Digital Management & Cognition), Pôle Herbert Simon, 13 rue Michel Ney, Nancy (rooms 206 / 207).  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68995%2C6.17449%3B48.69743%2C6.17170#map=16/48.69372/6.17266)
 
 **Date**: Wednesday June 10th, 2026.
 
