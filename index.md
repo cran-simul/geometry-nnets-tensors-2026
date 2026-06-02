@@ -4,7 +4,7 @@
 
 **Location**: IDMC (Institut des Sciences du Digital Management & Cognition), Pôle Herbert Simon, 13 rue Michel Ney, Nancy (rooms 206 / 207).  [How to get there](https://www.openstreetmap.org/directions?engine=fossgis_osrm_foot&route=48.68995%2C6.17449%3B48.69743%2C6.17170#map=16/48.69372/6.17266) from the train station. 
 
-**Date**: Wednesday June 10th, 2026.
+**Date**: 9:15am, Wednesday June 10th, 2026.
 
 ## About the Workshop
 This one-day workshop will focus on the theoretical study of neural networks  and tensor decompositions using geometric tools. The main topic is the geometry of the corresponding algebraic varieties: neurovarieties (in case of neural networks) and secant varieties (for tensor decompositions). In machine learning theory, understanding  geometry of neurovarieties has proven to be the key to reveal many of their fundamental properties such as their identifiability, expressivity, and the behavior of optimization algorithms (see, for example, [neuroalgebraicgeometry.ai](https://neuroalgebraicgeometry.ai) ). The workhop will present recent developments and discuss connections between neural networks and tensor decompositions.
@@ -19,11 +19,7 @@ The topics of the workshop include, but not limited to:
  * optimization and characterization of critical points
 
 ## Registration
-Registration is free but mandatory (by June 1) 
-
-[registration link](https://forms.gle/P6HLXxzemUQ4rP4Q7)  
-
-You are welcome to present a poster related to the topics of the workshop.
+Registration is free but mandatory (by June 1). You are welcome to present a poster related to the topics of the workshop.
 
 
 ## Invited speakers
@@ -37,7 +33,9 @@ You are welcome to present a poster related to the topics of the workshop.
 
 | **Time**         | **Session**                             |
 |------------------|-----------------------------------------|
-| 09:15-09:30      | Opening remarks                       |
+| 08:55-09:15      | Welcome,  coffee + pastries               |
+|------------------|------------------------------------------|
+| 09:15-09:30      | Opening remarks (from organizers)                     |
 | 09:30-10:45      | Kathlén Kohn <br/>  *Algebraic Neural Network Theory*  [(abstract)](#kathlen-kohn)  |
 | 10:45-11:15      | Coffee break                        |
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
