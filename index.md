@@ -33,7 +33,7 @@ Registration is free but mandatory (by June 1). You are welcome to present a pos
 
 | **Time**         | **Session**                             |
 |------------------|-----------------------------------------|
-| 08:55-09:15      | Welcome,  coffee + pastries               |
+| 08:50-09:15      | Welcome,  coffee + pastries               |
 |------------------|------------------------------------------|
 | 09:15-09:30      | Opening remarks (from organizers)                     |
 | 09:30-10:45      | Kathlén Kohn <br/>  *Algebraic Neural Network Theory*  [(abstract)](#kathlen-kohn)  |
