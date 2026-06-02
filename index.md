@@ -47,7 +47,7 @@ Registration is free but mandatory (by June 1). You are welcome to present a pos
 ### Confirmed poster contributions 
 - Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
 - Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
-- Julian Brandon (ENS Paris) *Understanding mode collapse in generative flow models using dimensionality reduction methods*
+- Julian Brandon (ENS Paris) *Emergent Riemannian geometry over learning discrete computations on continuous manifolds*
 - Antonio Fazzi (CRAN) *Structured low-rank approximation for multiple signal recovery from correlations*
 - Chuong Luong (CRAN) *TBD*
 - Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
