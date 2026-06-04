@@ -27,6 +27,15 @@ Registration is free but mandatory (by June 1). You are welcome to present a pos
 - [Alex Massarenti](http://mcs.unife.it/alex.massarenti/index.html) (University of Ferrara, Ferrara, Italy)
 - [Maksym Zubkov](https://www.maksymzubkov.info/) (University of British Columbia, Vancouver, Canada)
 
+### Poster contributions 
+- Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
+- Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
+- Julian Brandon (ENS Paris) *Emergent Riemannian geometry over learning discrete computations on continuous manifolds*
+- Antonio Fazzi (CRAN) *Structured low-rank approximation for multiple signal recovery from correlations*
+- Chuong Luong (CRAN) *Structural Criteria for Generic Essential Uniqueness of Block-Term Decompositions*
+- Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
+- Lyuhui Wu (Sorbonne Université) *Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
+
 
 <a name="schedule"></a>
 ## Schedule
@@ -42,16 +51,7 @@ Registration is free but mandatory (by June 1). You are welcome to present a pos
 | 12:30-14:00      | Lunch   (on site, for registered participants)                    |
 | 14:00-15:15     | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*    [(abstract)](#maksym-zubkov)               |         
 | 15:15-15:30  |  Poster teasers                  |
-| 15:30-17:00      | Poster session + coffee      |
-
-### Confirmed poster contributions 
-- Sanyam Agarwal (Saarland University) *The Limits of Tractable Marginalization*
-- Ricardo Borsoi (CRAN) *Identifiability of Deep Polynomial Neural Networks*
-- Julian Brandon (ENS Paris) *Emergent Riemannian geometry over learning discrete computations on continuous manifolds*
-- Antonio Fazzi (CRAN) *Structured low-rank approximation for multiple signal recovery from correlations*
-- Chuong Luong (CRAN) *TBD*
-- Konstantin Usevich (CRAN) *Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
-- Lyuhui Wu (Sorbonne Université) *Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
+| 15:30-17:00      | [Poster session](#poster-abstracts) + coffee      |
 
 <a name="kathlen-kohn"></a>
 ### Kathlén Kohn 
@@ -94,6 +94,66 @@ I will discuss recent results, obtained in collaboration with Massimiliano Mella
 
 **Abstract:**
 In this talk, we will explore (neuro)algebraic geometry, an emerging field analogous to algebraic statistics that uses algebraic geometry to study the theory of deep learning. We fix a feedforward neural network architecture with polynomial or rational activation functions and associate an algebraic (neuro)variety to the given architecture. I will present recent results showing how the study of neurovarieties arising from shallow polynomial and rational neural networks connects to several classical questions in algebraic geometry, including Chow varieties, secant varieties of Veronese and Grassmann varieties, Weyl’s conjectures, and other related topics. On the other hand, moving beyond shallow architectures brings a rich collection of classical algebro-geometric objects into focus, whose study may help us better understand the geometry underlying deep learning theory. More broadly, the talk will illustrate how algebro-geometric tools complement the more familiar statistical and probabilistic approaches to the mathematical foundations of deep learning.
+
+[(back to schedule)](#schedule)
+
+## Poster abstracts
+
+### Sanyam Agarwal (Saarland University) 
+*The Limits of Tractable Marginalization*
+
+**Abstract:**
+Marginalization -- summing a function over all assignments to a subset of its inputs -- is a fundamental computational problem with applications from probabilistic inference to formal verification. Despite its computational hardness in general, there exist many classes of functions (e.g., probabilistic models) for which marginalization remains tractable, and they can all be commonly expressed by arithmetic circuits computing multilinear polynomials. This raises the question, can all functions with polynomial time marginalization algorithms be succinctly expressed by such circuits? We give a negative answer, exhibiting simple functions with tractable marginalization yet no efficient representation by known models, assuming FP $\neq$ #P (an assumption implied by P $\neq$ NP). To this end, we identify a hierarchy of complexity classes corresponding to stronger forms of marginalization, all of which are efficiently computable on the known circuit models. We conclude with a completeness result, showing that whenever there is an efficient real RAM performing virtual evidence marginalization for a function, then there are small arithmetic circuits for that function's multilinear representation.
+
+[(back to schedule)](#schedule)
+
+### Ricardo Borsoi (CRAN) 
+*Identifiability of Deep Polynomial Neural Networks*
+
+**Abstract:**
+Polynomial Neural Networks (PNNs) possess a rich algebraic and geometric structure. However, their identifiability-a key property for ensuring interpretability-remains poorly understood. In this work, we present a comprehensive analysis of the identifiability of deep PNNs, including architectures with and without bias terms. Our results reveal an intricate interplay between activation degrees and layer widths in achieving identifiability. As special cases, we show that architectures with non-increasing layer widths are generically identifiable under mild conditions, while encoder-decoder networks are identifiable when the decoder widths do not grow too rapidly compared to the activation degrees. Our proofs are constructive and center on a connection between deep PNNs and low-rank tensor decompositions, and Kruskal-type uniqueness theorems. We also settle an open conjecture on the dimension of PNN's neurovarieties, and provide new bounds on the activation degrees required for it to reach the expected dimension.
+
+[(back to schedule)](#schedule)
+
+### Julian Brandon (ENS Paris) 
+*Emergent Riemannian geometry over learning discrete computations on continuous manifolds*
+
+**Abstract:**
+Many tasks require mapping continuous input data (e.g. images) to discrete task outputs (e.g. class labels). Yet, how neural networks learn to perform such discrete computations on continuous data manifolds remains poorly understood. Here, we show that signatures  of such computations emerge in the representational geometry of neu ral networks as they learn. By analysing the Riemannian pullback metric across layers of a neural network, we find that network computation can be decomposed into two functions: discretising continuous input features and performing logical operations on these discretised variables. Furthermore, we demonstrate how different learning regimes (rich vs. lazy) have contrasting metric and curvature structures, affecting the ability of the networks to generalise to unseen inputs. Overall, our work provides a geometric framework for understanding how neural networks learn to perform discrete computations on continuous manifolds.
+
+### Antonio Fazzi (CRAN) 
+*Structured low-rank approximation for multiple signal recovery from correlations*
+
+**Abstract:**
+TBD
+
+[(back to schedule)](#schedule)
+
+
+### Chuong Luong (CRAN) 
+*Structural Criteria for Generic Essential Uniqueness of Block-Term Decompositions*
+
+**Abstract:**
+We study generic uniqueness questions for non-uniform block-term tensor decompositions. For a prescribed block type ($(L_r,M_r,N_r)_{r=1}^R$), we formulate the problem at the level of mode subspaces by interpreting the decomposition through an associated join of subspace varieties. This leads to a subspace-level notion of essential uniqueness, where the goal is to recover the block mode subspaces up to permutation. Our main result gives a structural sufficient criterion for this uniqueness. In the multi-block case ($R \geq 3$), we show that three conditions—splitting in one mode, a separation condition in the (($B \otimes C$))-mode, and a rectangular rigidity condition—imply subspace essential uniqueness of the induced join model. The proof combines Terracini’s lemma with a contact-point rigidity argument, showing that tangential contact points cannot mix several supporting blocks. Finally, under the one-mode splitting assumption, the recovered subspaces determine the block summands themselves by projection. Hence the criterion yields generic essential uniqueness of the corresponding block-term decompositions, up to permutation of the typed blocks and the standard blockwise changes of bases.
+
+[(back to schedule)](#schedule)
+
+
+### Konstantin Usevich (CRAN) 
+*Uniqueness and algorithms for ParaTuck-2 tensor decompositions*
+
+**Abstract:**
+The ParaTuck-2 decomposition (PT2D) of third-order tensor is a two-layer generalization of the well-known canonical polyadic decomposition (CPD). While being more flexible than the CPD, the PT2D also possesses similar uniqueness properties. In this paper, we show than under the best known uniqueness conditions, the exact PT2D can be computed by an algebraic algorithm (i.e., can the PT2D problems can be reduced to computing nullspaces and eigenvalues of certain matrices). We do so by lifting the slices of the tensor to higher-dimensional space, which also allows for refining the existing uniqueness conditions. The algorithms are developed for general PT2D and its symmetric version (DEDICOM), which leads to an algebraic algorithm for another generalization of the CPD, the PARAFAC2 decomposition. 
+
+[(back to schedule)](#schedule)
+
+
+### Lyuhui Wu (Sorbonne Université) 
+*Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
+
+**Abstract:**
+TBD
+
 
 [(back to schedule)](#schedule)
 
