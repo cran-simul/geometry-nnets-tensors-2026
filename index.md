@@ -39,7 +39,7 @@ Registration is free but mandatory (by June 1). You are welcome to present a pos
 | 09:30-10:45      | Kathlén Kohn <br/>  *Algebraic Neural Network Theory*  [(abstract)](#kathlen-kohn)  |
 | 10:45-11:15      | Coffee break                        |
 | 11:15-12:30      | Alex Massarenti <br/> *Bronowski’s Conjecture, Identifiability, and Neurovarieties*   [(abstract)](#alex-massarenti)                    |
-| 12:30-14:00      | Lunch   (on site)                    |
+| 12:30-14:00      | Lunch   (on site, for registered participants)                    |
 | 14:00-15:15     | Maksym Zubkov <br/> *The Interplay of Tensors and Neural Networks*    [(abstract)](#maksym-zubkov)               |         
 | 15:15-15:30  |  Poster teasers                  |
 | 15:30-17:00      | Poster session + coffee      |
