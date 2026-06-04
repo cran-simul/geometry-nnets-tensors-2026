@@ -141,9 +141,7 @@ This event was supported in part by:
     <td align="center" width="12%">
       <img src="rt_maiages-300x225.png" alt="MAIAGES" style="max-width: 100%; height: auto;" />
     </td>
-    <td align="center" width="10%">
-      <img src="Logotype_france2030.png" alt="PEPR" style="max-width: 100%; height: auto;" />
-    </td>
+
   </tr>
 </table>
 
