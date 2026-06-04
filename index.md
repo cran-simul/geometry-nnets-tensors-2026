@@ -105,6 +105,43 @@ In this talk, we will explore (neuro)algebraic geometry, an emerging field analo
   
 Contact: firstname.lastname @ univ-lorraine.fr
 
+
+---
+### Sponsors
+
+This event was supported in part by:
+- The [University of Lorraine](https://www.univ-lorraine.fr/)
+- The [PEPR project TENSOR4ML](https://www.pepr-ia.fr/projet/tensor4ml-2/)
+- The [IA Cluster ENACT Grand Est](https://cluster-ia-enact.ai/)
+- The [Réseau Thématique MAIAGES](https://rt-maiages.math.cnrs.fr/)
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="17.6%">
+      <img src="ENACT_LOGO_noir.png" alt="ENACT" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="16.6%">
+      <img src="Logo_CRAN.jpg" alt="CRAN" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="17.6%">
+      <img src="LOGO_UL.png" alt="UL" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="19.6%">
+      <img src="LOGO_GDR_IASIS.png" alt="CNRS-IASIS" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="14.6%">
+      <img src="rt_maiages-300x225.png" alt="MAIAGES" style="max-width: 100%; height: auto;" />
+    </td>
+    <td align="center" width="12.6%">
+      <img src="Logotype_france2030.png" alt="PEPR" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
+
+
+
 ---
 
 &copy; 2026 Geometry of  Neural Networks and Tensors in Nancy
