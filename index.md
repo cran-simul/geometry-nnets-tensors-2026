@@ -111,10 +111,10 @@ Contact: firstname.lastname @ univ-lorraine.fr
 
 This event was supported in part by:
 - The PEPR IA project [TENSOR4ML](https://www.pepr-ia.fr/projet/tensor4ml-2/) (ANR-25-PEIA-0003) 
-- The [University of Lorraine](https://www.univ-lorraine.fr/), pôle AM2I
 - The [IA Cluster ENACT Grand Est](https://cluster-ia-enact.ai/)
-- The [CNRS](https://www.cnrs.fr/en)
+- The [University of Lorraine](https://www.univ-lorraine.fr/), pôle AM2I
 - The [Réseau Thématique MAIAGES](https://rt-maiages.math.cnrs.fr/) 
+- The [CNRS](https://www.cnrs.fr/en)
 
 
 
