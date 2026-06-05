@@ -153,7 +153,8 @@ The ParaTuck-2 decomposition (PT2D) of third-order tensor is a two-layer general
 *Convex Analysis and Monge–Ampère Equations on Tropical Varieties*
 
 **Abstract:**
-TBD
+In the first part, we present convex functions on polyhedral spaces. We define a convex function on a polyhedral space as a continuous function that admits a local affine support function at each point. This class of convex functions turns out to coincide with the class introduced by Botero-Burgos-Sombra. We present several convex-analytic results, including a regularization theorem stating that every convex function on a polyhedral space can be uniformly approximated by piecewise linear convex functions.
+In the second part, we introduce the Monge-Ampère measure for functions on a tropical variety, and studies tropical Monge-Ampère equations. We present the result the tropical analogue of Calabi-Yau theorem fails on any tropical variety which is of dimension at least $2$ and satisfies some genericity condition.
 
 
 [(back to schedule)](#schedule)
