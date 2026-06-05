@@ -125,7 +125,8 @@ Many tasks require mapping continuous input data (e.g. images) to discrete task 
 *Structured low-rank approximation for multiple signal recovery from correlations*
 
 **Abstract:**
-TBD
+We address the recovery of multiple complex signals from noisy correlation-based measurements. The inverse problem is nonlinear and is affected by intrinsic global phase ambiguity. The main idea is to lift the correlation tensor to block subresultant structured matrices, where signal identifiability is encoded by rank deficiency and a one-dimensional kernel. This formulation leads naturally to a weighted structured low-rank approximation problem for noisy data, with weights induced by the measurement operator. This framework provides both identifiability guarantees and algorithms for signal reconstruction from noisy correlation measurements.
+
 
 [(back to schedule)](#schedule)
 
